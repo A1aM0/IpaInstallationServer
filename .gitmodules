@@ -1,0 +1,7 @@
+
+[submodule "source/third-party/mongoose/mongoose"]
+	path = source/third-party/mongoose/mongoose
+	url = https://github.com/cesanta/mongoose.git
+[submodule "source/third-party/QrCodeGen/QR-Code-generator"]
+	path = source/third-party/QrCodeGen/QR-Code-generator
+	url = https://github.com/nayuki/QR-Code-generator.git
